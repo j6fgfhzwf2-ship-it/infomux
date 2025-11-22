@@ -1,1 +1,4 @@
+PyQt5>=5.15.9
+requests>=2.31
+ollama>=0.1   # si Ollama local pour Qwen 2.5
 
